@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+text-align: center;
+}
+header h1 {
+    font-size: 30px;
+    color: whitesmoke;
+}
+header {
+    background-color: darkcyan;
+padding: 25px;
+}
+nav {
+    background-color:lightgray;
+h2{
+    color: black;
+}
+
+} 
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    color:black
+}
+nav a:hover{
+    background-color: cadetblue;
+    color:burlywood;
+}
+p{
+    font-size: 25px;
+    color:gray;
+    margin-bottom: 20px;
+}
+.button {
+    background-color: gray;
+    font-size: 18px;
+    color:whitesmoke;
+    display: inline-block;
+    padding: 10px 25px;
+    border: none;
+}
+.home-section {
+    padding: 100px;
+}
+.card1 {
+    width: 100%;
+    background: white;
+    border-radius: 10px;
+    overflow:hidden;
+    text-align: center;
+}
+.our-packages figure{
+    box-shadow: 0 0 10px black;
+width: 300px;
+display: inline-block;
+padding: 10px;
+margin: 20px;
+}
+.our-packages figure img {
+    width: 100%;
+}
+.our-packages figure figcaption {
+    font-size: 30px;
+}
+.our-packages figure p {
+    font-size: 30px;
+}
+.card {
+    display: flex;
+justify-content: center;
+}
+.main-footer {
+    background-color:darkcyan;
+    color: whitesmoke;
+    padding: 10px;
+    margin-top: 20px;
+}
+.places img {
+    margin:20px;
+    padding:10px;
+}
+.home-section h1{
+    margin-bottom: 20px;
+}
+.places h1 {
+    margin-bottom: 20px;
+}
+.home-section p {
+    margin-bottom: 20px;
+}
+.our-packages h1 {
+    margin-bottom: 20px;;
+}
+
+
+    
+
